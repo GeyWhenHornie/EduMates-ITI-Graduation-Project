@@ -4,13 +4,13 @@ import { getStorage } from 'firebase/storage';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-	apiKey: 'AIzaSyBDe9ZLgmSW9FYDrpmNCH5uKfPKC3a9w3o',
-	authDomain: 'edumates---graduation-project.firebaseapp.com',
-	projectId: 'edumates---graduation-project',
-	storageBucket: 'edumates---graduation-project.appspot.com',
-	messagingSenderId: '590689932589',
-	appId: '1:590689932589:web:ce4a5b770c5912d470efa4',
-	measurementId: 'G-HCE4ZESMLN',
+	apiKey: 'AIzaSyByEdjmkf6-4yfejmgz6BtPTSCdQi7FGH8',
+	authDomain: 'filmyverse-b8d08.firebaseapp.com',
+	projectId: 'filmyverse-b8d08',
+	storageBucket: 'filmyverse-b8d08.firebasestorage.app',
+	messagingSenderId: '534581136673',
+	appId: '1:534581136673:web:021dd94fbbc89e39d18260',
+	measurementId: 'G-SZ27YNH5N6',
 };
 
 // Initialize Firebase
